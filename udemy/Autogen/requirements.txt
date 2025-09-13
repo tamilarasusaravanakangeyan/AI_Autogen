@@ -1,5 +1,6 @@
 autogen-agentchat===0.5.7
 autogen-ext[openai]
+autogen-ext[azure]
 dotenv
 autogen-core
 pydantic
