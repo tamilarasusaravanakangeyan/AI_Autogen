@@ -9,3 +9,7 @@ pip install -r requirements.txt
 pip install -U autogenstudio
 autogenstudio ui --port 8080 --appdir ./myapp
 ```
+
+[CosmosDB](cosmosdb/README.MD)
+
+- [vector.ipynb](cosmosdb/vector.ipynb)
